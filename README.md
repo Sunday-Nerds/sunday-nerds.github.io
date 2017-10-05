@@ -1,1 +1,4 @@
-# sunday-nerds.github.io
+# sundaynerds.github.io
+
+Just a blog of a D&D Game
+
