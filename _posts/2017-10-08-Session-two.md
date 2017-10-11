@@ -5,6 +5,7 @@ date:   2017-10-08 19:19:00 +0100
 ---
 
 
+
 ### 2nd Firstday of Tarskah 1491DR
 <br>
 #### 9:30 - At Mhandyvver's chicken.
@@ -75,6 +76,7 @@ The near by dark figure takes a swing at Varis but it's a miss.
 A 3rd hand attacks Thog, again a miss.
 
 Casi skillfully reaches over Seafore to skewer the hand on the ground in front of him, killing the hand.
+<!-- does this show? -->
 </div>
 <div class="phb" id="p2">
 
