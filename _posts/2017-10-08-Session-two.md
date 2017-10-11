@@ -4,7 +4,6 @@ title:  "Lance Rock"
 date:   2017-10-08 19:19:00 +0100
 ---
 
-<div id="p1" class="pbh">
 
 ### 2nd Firstday of Tarskah 1491DR
 <br>
@@ -134,4 +133,3 @@ The party retires to a table to nurse their wounds and eat their food.
 Varis muses their predictament: *"Maybe we could recruit a group of passing adventures to clear out the caves for us."* our weary travellers are silent, perhaps in comtemplation, perhaps in exhaustion.
 
 
-</div>
