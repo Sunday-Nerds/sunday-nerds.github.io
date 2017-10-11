@@ -20,6 +20,8 @@ Thog wants to get a map of the local area. The only store in town that looks lik
 
 Casi is asking Vallivoe about armed caravans that might have been coming through here, or if he knows of any Knights of Feathergale. Varrivoe says he is aware of neither but upon realising Casi is a also a Harper says he will endevour to use his contacts to find out more about the Knights of Feathergale.<br><br>
 
+Vallivoe also pointed Casi in the direction of The Last Laugh.
+
 Seafore, enthused to meet another Harper, eagarly asks Varrivoe about fires. Varrivoe regards him with some concern but says there have been many cloaken figures at night for the last few weeks and maybe they are involved. He suggests asking more at the Helm at High Sun because it's a locals pub and therefore might be more likey to contain useful gossip.
 
 #### 8:00 - Red larch: Allfaiths Shrine
