@@ -4,6 +4,8 @@ title:  "Lance Rock"
 date:   2017-10-08 19:19:00 +0100
 ---
 
+<div id="p1" class="pbh">
+
 ### 2nd Firstday of Tarskah 1491DR
 <br>
 #### 9:30 - At Mhandyvver's chicken.
@@ -74,6 +76,8 @@ The near by dark figure takes a swing at Varis but it's a miss.
 A 3rd hand attacks Thog, again a miss.
 
 Casi skillfully reaches over Seafore to skewer the hand on the ground in front of him, killing the hand.
+</div>
+<div class="phb" id="p2">
 
 Two more hands advance towards Thog and Varis. One of them lands a heavy scratching on Thog; it's surprisingly painful for the Paladin and he starts to worry. The Skeletons are on their way as well. The dark figure at the back of the room heckles the adventures.
 
@@ -130,4 +134,4 @@ The party retires to a table to nurse their wounds and eat their food.
 Varis muses their predictament: *"Maybe we could recruit a group of passing adventures to clear out the caves for us."* our weary travellers are silent, perhaps in comtemplation, perhaps in exhaustion.
 
 
-
+</div>
