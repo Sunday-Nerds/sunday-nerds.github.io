@@ -76,8 +76,10 @@ The near by dark figure takes a swing at Varis but it's a miss.
 A 3rd hand attacks Thog, again a miss.
 
 Casi skillfully reaches over Seafore to skewer the hand on the ground in front of him, killing the hand.
-<!-- does this show? -->
+
+
 </div>
+
 <div class="phb" id="p2">
 
 Two more hands advance towards Thog and Varis. One of them lands a heavy scratching on Thog; it's surprisingly painful for the Paladin and he starts to worry. The Skeletons are on their way as well. The dark figure at the back of the room heckles the adventures.
